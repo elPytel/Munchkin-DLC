@@ -20,7 +20,7 @@ Je zastoupený kartou s názvem "Obchodník" a má následující vlastnosti:
 
 ## Předměty
 
-| Název       | Druh | Omezení / rasa |Popis           | Vzhled | Speciální schopnosti |
+| Název       | Druh | Omezení / rasa |Popis           | Vzhled | cena |
 |-------------|------|---------------|-----------------|-------|----------------------|
 | Prsten moci |předmět | Pouze pro pulčíky nebo Saurona |  **Temný pán**: <br>- Žádný hráč s prstenem přání nesmí svému temnému pánovi odmítnou pomoc v boji (kromě toho posledního). <br>**Neviditelnost**: <br>- Jednorázový útěk z boje. | | 600z |
 
@@ -53,11 +53,7 @@ Je zastoupený kartou s názvem "Obchodník" a má následující vlastnosti:
 | Název       | Druh | Bonus | Popis           | Vzhled | Cena |
 |-------------|------|-------|-----------------|-------|------|
 | Život navíc | jednorázový předmět || +1 život | | 1 278z |
-
-
-Zlaťák pro štěstí 
-(Je k ničemu, až na to že má cenu jednoho zlaťáků)
-Cena: 1z
+| Zlaťák pro štěstí | | | (Je k ničemu, až na to že má cenu jednoho zlaťáků) | | 1z |
 
 Nějaký předmět 
 Cena: 999z

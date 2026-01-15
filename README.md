@@ -1,5 +1,4 @@
 # Munchkin DLC: hernní rozšíření
-
 - [Munchkin DLC: hernní rozšíření](#munchkin-dlc-hernní-rozšíření)
   - [Obchodník](#obchodník)
   - [Předměty](#předměty)
